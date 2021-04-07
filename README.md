@@ -12,11 +12,13 @@ The purpose of the following analysis is to:
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt) Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 DataFrame:
+
 ![Pyber_Summary_Dataframe](Resources/Pyber_Summary_Dataframe.PNG)
 
 
 Line Chart:
 
+![PyBer_Weekly_Fare_Line_Chart](Resources/PyBer_Weekly_Fare_Line_Chart.PNG)
 
 ## PyBer Analysis - Summary:
 
