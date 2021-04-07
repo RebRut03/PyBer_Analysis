@@ -23,7 +23,7 @@ Suburban: Suburban cities fall in the middle of urban and rural cities when it c
 
 Rural: Rural cities have the lowest numbers when it comes to total rides, total drivers, and total fares likley due to population and demand, but the highest when it comes to average fare per ride and average fare per driver likely due to less compettion, fewer drivers, and longer distances traveled.
 
-Line Chart:
+The following chart shows the weekly fares by city type between January and April 2019.  All city types' fares increase around 2/24/19, and the city fares have several peaks during March.  There's also a very significant increase in fares at the beginning of April (4/7/19) for rural cities.
 
 ![PyBer_Weekly_Fare_Line_Chart](Resources/PyBer_Weekly_Fare_Line_Chart.PNG)
 
