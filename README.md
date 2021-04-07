@@ -15,17 +15,17 @@ The purpose of the following analysis is to:
 
   ![Pyber_Summary_Dataframe](Resources/Pyber_Summary_Dataframe.PNG)
 
-  - Urban:  As expected with Ride-sharing data, the urban areas have higher numbers in the total rides, total drivers, and total fares categories, likely due to population and demand.  Also, as expected, the average fare per ride, and average fare per driver is the lowest of the three city types which could be due to more competition, shorter distances traveled, etc.
+  - Urban - As expected with Ride-sharing data, the urban areas have higher numbers in the total rides, total drivers, and total fares categories, likely due to population and demand.  Also, as expected, the average fare per ride, and average fare per driver is the lowest of the three city types which could be due to more competition, shorter distances traveled, etc.
 
-  - Suburban: Suburban cities fall in the middle of urban and rural cities when it comes to all categories as expected.
+  - Suburban - Suburban cities fall in the middle of urban and rural cities when it comes to all categories as expected.
 
-  - Rural:  Rural cities have the lowest numbers when it comes to total rides, total drivers, and total fares likley due to population and demand, but the highest when it comes to average fare per ride and average fare per driver likely due to less compettion, fewer drivers, and longer distances traveled.
+  - Rural - Rural cities have the lowest numbers when it comes to total rides, total drivers, and total fares likley due to population and demand, but the highest when it comes to average fare per ride and average fare per driver likely due to less compettion, fewer drivers, and longer distances traveled.
 
 ### Total Weekly Fare by City Type:
 
-The following chart shows the weekly fares by city type between January and April 2019.  All city types' fares increase around 2/24/19, and the city fares have several peaks during March.  There's also a very significant increase in fares at the beginning of April (4/7/19) for rural cities.
+  The following chart shows the weekly fares by city type between January and April 2019.  All city types' fares increase around 2/24/19, and the city fares have several peaks during March.  There's also a very significant increase in fares at the beginning of April (4/7/19) for rural cities.
 
-![PyBer_Weekly_Fare_Line_Chart](Resources/PyBer_Weekly_Fare_Line_Chart.PNG)
+  ![PyBer_Weekly_Fare_Line_Chart](Resources/PyBer_Weekly_Fare_Line_Chart.PNG)
 
 ## PyBer Analysis - Business Recommendations:
 
