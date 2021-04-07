@@ -27,6 +27,8 @@ The following chart shows the weekly fares by city type between January and Apri
 
 ![PyBer_Weekly_Fare_Line_Chart](Resources/PyBer_Weekly_Fare_Line_Chart.PNG)
 
-## PyBer Analysis - Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## PyBer Analysis - Business Recommendations:
+- The fares in urban areas made up 63% of total fares for the time period analyzed.  Urban areas seem to have the most demand (highest total fares and total rides) so it's recommended to continue to focus company resources on urban cities.
+- 30% of the total fares were in suburban areas.  There is still a large concetration of people in these areas so maybe market more to drivers which could create more compettion and possibly lower the fares, might be an incentive to get more riders.
+- In order to increase profit in the suburban and rural areas, it may be worth marketing or providing incentives for riders during certain high profit travel dates (like spring break) or for special events; more data might be needed to complete this analysis, but in and around 2/24 and 4/7 seem to be big days in those city types.
+- 
